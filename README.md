@@ -13,6 +13,6 @@ Basic Freatures
 Landscaping Funcions
 ---
 1. Generate a black-and-white QR code based on an existing image.![](https://github.com/sylnsfar/qrcode/blob/master/example/qrs1.jpg?raw=true)<br>
-2. Generate a color QR code based on an existing image.<br>
+2. Generate a color QR code based on an existing image.![](https://github.com/sylnsfar/qrcode/blob/master/example/qrs2.jpg?raw=true)<br>
 3. Generate a dynamic QR code.<br>
 
