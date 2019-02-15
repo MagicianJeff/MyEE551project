@@ -7,6 +7,7 @@ QR code (Quick Response Code) is the trademark for a type of matrix barcode. QR 
 
 Freatures
 ---
-1. Add function: Generate a normal QR code based on needs. ![](https://upload.wikimedia.org/wikipedia/commons/4/4e/QRcode_image.svg)<br>
+1. Add function: Generate a normal QR code based on needs. ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/QR_code_for_mobile_English_Wikipedia.svg)<br>
 2. Add function: Adjust the size of the QR code.<br>
-3.
+3. Add function: Insert a picture as the background of the QR code.<br>
+4. 
