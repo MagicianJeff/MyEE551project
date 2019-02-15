@@ -16,3 +16,7 @@ Landscaping Funcions
 2. Generate a color QR code based on an existing image.![](https://github.com/sylnsfar/qrcode/blob/master/example/qrs2.jpg?raw=true)<br>
 3. Generate a dynamic QR code.<br>
 ![](https://github.com/sylnsfar/qrcode/blob/master/example/zootopia_qrcode.gif?raw=true)<br>
+
+Environment and Package
+----
+1. (https://www.python.org/downloads/release/python-368/)
