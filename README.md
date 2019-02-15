@@ -1,1 +1,2 @@
-This is my awesome project!
+Generate a personalized QR code by Python
+======
