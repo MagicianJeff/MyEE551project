@@ -3,12 +3,13 @@ Generate a personalized QR code by Python
 
 Purposals
 ----
-QR code (Quick Response Code) is the trademark for a type of matrix barcode. QR code has become an integral part of our daily lives. This project uses Python to generate common two-dimensional code based on MyQR. Moreover, this project also contains some landscaping functions to create art QR code.
+Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regions") contain all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution. (Wikipedia)
+
 
 Basic Freatures
 ---
-1. Generate a normal QR code based on needs. ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/QR_code_for_mobile_English_Wikipedia.svg)<br>
-2. Adjust the size of the QR code.<br>
+1. Generate a random Sudoku Puzzle. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)<br>
+2. Take out some numbers from the puzzle.<br>
 
 Landscaping Funcions
 ---
