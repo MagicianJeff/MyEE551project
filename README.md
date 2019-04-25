@@ -14,7 +14,7 @@ Basic Freatures
 Landscaping Funcions
 ---
 1. Let player to fill in the puzzle. <br>
-2. Check whether the answer is correct. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/250px-Sudoku-by-L2G-20050714_solution.svg.png)<br>
+2. Check whether the answer is correct. ![](https://i.redd.it/63n03yxunj511.jpg)<br>
 3. If not correct, show the completed puzzle.<br>
 ![](https://github.com/sylnsfar/qrcode/blob/master/example/zootopia_qrcode.gif?raw=true)<br>
 
