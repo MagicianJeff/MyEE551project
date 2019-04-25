@@ -9,13 +9,13 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is
 Basic Freatures
 ---
 1. Generate a random 9*9 Sudoku Puzzle. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/250px-Sudoku-by-L2G-20050714_solution.svg.png)<br>
-2. Take out some numbers from the puzzle.  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)<br>
+2. Take out some numbers from the puzzle randomly.  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)<br>
 
 Landscaping Funcions
 ---
-1. Generate a black-and-white QR code based on an existing image.![](https://github.com/sylnsfar/qrcode/blob/master/example/qrs1.jpg?raw=true)<br>
-2. Generate a color QR code based on an existing image.![](https://github.com/sylnsfar/qrcode/blob/master/example/qrs2.jpg?raw=true)<br>
-3. Generate a dynamic QR code.<br>
+1. Let player to fill in the puzzle. <br>
+2. Check whether the answer is correct. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/250px-Sudoku-by-L2G-20050714_solution.svg.png)<br>
+3. If not correct, show the completed puzzle.<br>
 ![](https://github.com/sylnsfar/qrcode/blob/master/example/zootopia_qrcode.gif?raw=true)<br>
 
 Environment and Package
