@@ -8,8 +8,8 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is
 
 Basic Freatures
 ---
-1. Generate a random 9*9 Sudoku Puzzle. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)<br>
-2. Take out some numbers from the puzzle.<br>
+1. Generate a random 9*9 Sudoku Puzzle. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/250px-Sudoku-by-L2G-20050714_solution.svg.png)<br>
+2. Take out some numbers from the puzzle.  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)<br>
 
 Landscaping Funcions
 ---
