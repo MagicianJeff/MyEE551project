@@ -22,7 +22,7 @@ Landscaping Funcions
 Environment and Package
 ----
 1. [Python3](https://www.python.org/downloads/release/python-372/)<br>
-2. [MyQR](https://pypi.org/project/MyQR/)<br>
+2. [wxPython](https://wxpython.org/)<br>
 
 Author
 ---
